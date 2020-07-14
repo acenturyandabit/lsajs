@@ -10,7 +10,7 @@
     "moment": "^2.22.2",
     "natural": "*",
     "normalize-for-search": "^1.2.0",
-    "string": "^3.3.3",
+    "svd-js": "^1.1.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
